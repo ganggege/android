@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+//main fun
 void main()
 {
 	printf("hello world!");
